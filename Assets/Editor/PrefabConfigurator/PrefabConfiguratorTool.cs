@@ -137,7 +137,7 @@ namespace UI.Tools.Editor
             EditorGUILayout.Space();
             EditorGUILayout.Space();
 
-            _headerLabelText = EditorGUIUtility.isProSkin ? "<color=white>ZGUI Reference Replacer</color>" : "ZGUI Reference Replacer";
+            _headerLabelText = EditorGUIUtility.isProSkin ? "<color=white>GUI Prefab Modifier</color>" : "GUI Prefab Modifier";
 
             EditorGUILayout.LabelField(_headerLabelText, new GUIStyle()
             {
