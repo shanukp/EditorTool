@@ -1,0 +1,30 @@
+{
+	"dataEntries":
+	[
+		{
+			"text": "Ace",
+			"color": "#000000",
+			"imagePath": "Assets/Image/ace.png"
+		},
+		{
+			"text": "King",
+			"color": "#ff0000",
+			"imagePath": "Assets/Image/king.png"
+		},
+		{
+			"text": "Queen",
+			"color": "#09ff00",
+			"imagePath": "Assets/Image/queen.png"
+		},
+		{
+			"text": "Jack",
+			"color": "#2200ff",
+			"imagePath": "Assets/Image/jack.png"
+		},
+		{
+			"text": "Ten",
+			"color": "#f0ff00",
+			"imagePath": "Assets/Image/ten.png"
+		}
+	]
+}
