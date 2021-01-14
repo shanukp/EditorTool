@@ -122,8 +122,6 @@ namespace UI.Tools.Editor.Utilities
             List<T> tempObjects = new List<T>();
             DirectoryInfo directory = new DirectoryInfo(Application.dataPath + "/" + subDirectory);
 
-            Debug.LogError(directory.GetDirectories().Length);
-
             FileInfo[] goFileInfo = directory.GetFiles("*" + fileExtension, SearchOption.AllDirectories);
 
             int i = 0;
